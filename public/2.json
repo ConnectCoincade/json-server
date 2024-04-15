@@ -1,0 +1,23 @@
+{
+  "name": "Burgati Shirur",
+  "description": "A base level car from F-Grade",
+  "image": "ipfs://QmRkgRnpcJPh6aBTTw4enAnFETFg3d1hCb51NJV6vyfwPq",
+  "car_uid": "65bc940dc33e17b15523b3bf",
+  "car_level": 1,
+  "attributes": [
+      {
+          "trait_type": "Class",
+          "value": "F"
+      },
+      {
+          "trait_type": "Type",
+          "value": "Speed"
+      },
+      {
+          "display_type": "number", 
+          "trait_type": "Level", 
+          "value":1,
+          "max_value":5
+      }
+  ]
+}

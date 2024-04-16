@@ -1,9 +1,9 @@
 {
-    "name": "Ruti Zeno",
+    "name": "Ruti 699",
     "description": "A base level car from F-Grade",
-    "image": "ipfs://QmT96m9qPt5rU4XnErsm3Ri18jpn9eFvL9Vrajv5KyhWiX/1.png",
-    "car_uid": "65bc940dc33e17b15523b3bf",
-    "car_level": 5,
+    "image": "ipfs://QmT96m9qPt5rU4XnErsm3Ri18jpn9eFvL9Vrajv5KyhWiX/4.png",
+    "car_uid": "659fc14c1698dd8223542aab",
+    "car_level": 3,
     "attributes": [
         {
             "trait_type": "Class",
@@ -11,12 +11,12 @@
         },
         {
             "trait_type": "Type",
-            "value": "Speed"
+            "value": "Handling"
         },
         {
             "display_type": "number", 
             "trait_type": "Level", 
-            "value":5,
+            "value":3,
             "max_value":5
         }
     ]

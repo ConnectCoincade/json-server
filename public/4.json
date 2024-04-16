@@ -1,7 +1,7 @@
 {
-    "name": "Burgati Shirur",
+    "name": "Ruti Zeno",
     "description": "A base level car from F-Grade",
-    "image": "ipfs://QmRkgRnpcJPh6aBTTw4enAnFETFg3d1hCb51NJV6vyfwPq",
+    "image": "ipfs://QmT96m9qPt5rU4XnErsm3Ri18jpn9eFvL9Vrajv5KyhWiX/1.png",
     "car_uid": "65bc940dc33e17b15523b3bf",
     "car_level": 3,
     "attributes": [
@@ -18,6 +18,17 @@
             "trait_type": "Level", 
             "value":3,
             "max_value":5
+        }
+    ],
+    "car_stats": [
+        {
+            "car_level": 3,
+            "maxHealth": 90,
+            "topSpeed": 5.5,
+            "accleration": 0.970000001235454,
+            "acclerationTime": 2,
+            "DeacclerationTime": 2,
+            "handling": 70
         }
     ]
   }

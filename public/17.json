@@ -1,9 +1,9 @@
 {
-    "name": "Ruti Zeno",
+    "name": "Yunde Mantro",
     "description": "A base level car from F-Grade",
-    "image": "ipfs://QmT96m9qPt5rU4XnErsm3Ri18jpn9eFvL9Vrajv5KyhWiX/1.png",
-    "car_uid": "65bc940dc33e17b15523b3bf",
-    "car_level": 5,
+    "image": "ipfs://QmT96m9qPt5rU4XnErsm3Ri18jpn9eFvL9Vrajv5KyhWiX/3.png",
+    "car_uid": "659fbe2171f9cf6f06723a5d",
+    "car_level": 4,
     "attributes": [
         {
             "trait_type": "Class",
@@ -11,12 +11,12 @@
         },
         {
             "trait_type": "Type",
-            "value": "Speed"
+            "value": "Acceleration"
         },
         {
             "display_type": "number", 
             "trait_type": "Level", 
-            "value":5,
+            "value":4,
             "max_value":5
         }
     ]
